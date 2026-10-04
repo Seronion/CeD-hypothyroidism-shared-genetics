@@ -1,0 +1,47 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*~
+
+# Large genotype / GWAS / reference files
+*.bed
+*.bim
+*.fam
+*.pgen
+*.pvar
+*.psam
+*.bgen
+*.sample
+*.vcf
+*.vcf.gz
+*.bcf
+*.besd
+*.esi
+*.epi
+
+# Large local outputs
+results/
+output/
+outputs/
+
+# Local configuration / credentials
+.env
+config.local.sh

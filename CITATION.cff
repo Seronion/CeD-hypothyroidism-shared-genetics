@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and this repository."
+title: "CeD-hypothyroidism shared genetics analysis code"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Jiating"
+  - family-names: "Tong"
+    given-names: "Shuangshuang"
+  - family-names: "Li"
+    given-names: "Zheng"
+repository-code: "https://github.com/Seronion/CeD-hypothyroidism-shared-genetics"
+url: "https://github.com/Seronion/CeD-hypothyroidism-shared-genetics"
+abstract: >-
+  Analysis code for cross-trait genomic analyses of celiac disease and hypothyroidism,
+  including genome-wide genetic sharing, local covariance, shared-locus discovery,
+  colocalization, tissue enrichment, transcriptome-integrated analyses, and bidirectional
+  Mendelian randomization.
+keywords:
+  - celiac disease
+  - hypothyroidism
+  - GWAS
+  - genetic correlation
+  - polygenic overlap
+  - colocalization
+  - Mendelian randomization

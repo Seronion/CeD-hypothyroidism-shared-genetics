@@ -1,0 +1,16 @@
+# Example software list
+# Add exact versions if required by the target journal.
+
+PLINK
+R
+Python
+LDSC
+GNOVA
+MiXeR
+rho-HESS
+MTAG
+CPASSOC
+SMR
+FUSION/TWAS
+TwoSampleMR
+coloc
